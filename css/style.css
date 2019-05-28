@@ -1,0 +1,30 @@
+h1 span {
+            font-size: 0.6em;
+        }
+        .types {
+          display: inline-block;
+          padding: 10px 30px;
+          border: 1px dotted;
+          margin-right: 20px;
+          overflow: hidden;
+        }
+        .container {
+          height: 180px;
+          width: 400px;
+        }
+        .container > div {
+          float: left;
+        }
+        .control {
+            margin-right: 70px;
+        }
+.round_slider{
+  font-size: 30px;
+}
+.countdown{
+  font-size: 50px;
+}
+.animsition{
+  font-size: 70px;
+
+}
